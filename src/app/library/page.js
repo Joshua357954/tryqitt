@@ -1,3 +1,4 @@
+'use client'
 import React, { useState } from 'react';
 import { FaHeart, FaDownload } from 'react-icons/fa';
 import { TbNotes as Notes } from 'react-icons/tb';
