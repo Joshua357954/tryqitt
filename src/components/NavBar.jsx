@@ -1,6 +1,6 @@
-import React, { PropTypes } from 'react';
+import React from 'react';
 import Link from "next/link.js";
-import { useDispatch, useSelector } from 'react-redux';
+import { useSelector } from 'react-redux';
 import { TbSpeakerphone as Notify } from 'react-icons/tb'
 import { MdOutlineNotificationsActive as Notify2 } from 'react-icons/md'
 // import Imgg from '../assets/images/serious-girl (1).jpg'
