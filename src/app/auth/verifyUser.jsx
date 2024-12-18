@@ -1,3 +1,4 @@
+"use client"
 import React, { useState } from 'react';
 import { FcGoogle as Google } from "react-icons/fc";
 import PageNav from '../../components/PageNav.jsx'
